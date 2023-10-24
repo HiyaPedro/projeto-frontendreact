@@ -1,9 +1,9 @@
 import React from "react";
 
-export function Items() {
+export function Filters() {
     return (
         <div>
-            <p>Items</p>
+            <p>Filters</p>
         </div>
     )
     
